@@ -1,0 +1,31 @@
+@import './reset.css';
+
+:root {
+  --color-black: #373737;
+  --color-coffee: #C16226;
+  --color-coffee-light: #ffeed6;
+  --color-theme: #27D6AF;
+  --font-s: 24px;
+  --font-m: 30px;
+  --font-l: 32px;
+}
+
+.font-s {
+  font-size: var(--font-s);
+}
+.font-m {
+  font-size: var(--font-m);
+}
+.font-l {
+  font-size: var(--font-l);
+}
+.p-l-l {
+  margin-left: 50px;
+}
+.p-l-m {
+  margin-left: 30px;
+}
+
+.text-center {
+  text-align: center;
+}

@@ -1,0 +1,4 @@
+protos:
+  - bgo/component/wechatmp.proto
+  - tss/match/prematchdetail.v1.proto
+
